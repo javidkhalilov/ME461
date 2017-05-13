@@ -1,0 +1,9 @@
+C:\Users\cavid\Desktop\me461\me461_2010_01_hello_world\me461_2010_01_hello_world\bin\Debug\me461_2010_01_hello_world.exe
+C:\Users\cavid\Desktop\me461\me461_2010_01_hello_world\me461_2010_01_hello_world\bin\Debug\me461_2010_01_hello_world.pdb
+C:\Users\cavid\Desktop\me461\me461_2010_01_hello_world\me461_2010_01_hello_world\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cavid\Desktop\me461\me461_2010_01_hello_world\me461_2010_01_hello_world\obj\x86\Debug\me461_2010_01_hello_world.Form1.resources
+C:\Users\cavid\Desktop\me461\me461_2010_01_hello_world\me461_2010_01_hello_world\obj\x86\Debug\me461_2010_01_hello_world.Properties.Resources.resources
+C:\Users\cavid\Desktop\me461\me461_2010_01_hello_world\me461_2010_01_hello_world\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cavid\Desktop\me461\me461_2010_01_hello_world\me461_2010_01_hello_world\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cavid\Desktop\me461\me461_2010_01_hello_world\me461_2010_01_hello_world\obj\x86\Debug\me461_2010_01_hello_world.exe
+C:\Users\cavid\Desktop\me461\me461_2010_01_hello_world\me461_2010_01_hello_world\obj\x86\Debug\me461_2010_01_hello_world.pdb

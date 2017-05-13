@@ -1,0 +1,9 @@
+C:\Users\cavid\Desktop\me461\Me461_2010_2_events_in_VS\Me461_2010_2_events_in_VS\bin\Release\Me461_2010_2_events_in_VS.exe
+C:\Users\cavid\Desktop\me461\Me461_2010_2_events_in_VS\Me461_2010_2_events_in_VS\bin\Release\Me461_2010_2_events_in_VS.pdb
+C:\Users\cavid\Desktop\me461\Me461_2010_2_events_in_VS\Me461_2010_2_events_in_VS\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\cavid\Desktop\me461\Me461_2010_2_events_in_VS\Me461_2010_2_events_in_VS\obj\x86\Release\Me461_2010_2_events_in_VS.Form1.resources
+C:\Users\cavid\Desktop\me461\Me461_2010_2_events_in_VS\Me461_2010_2_events_in_VS\obj\x86\Release\Me461_2010_2_events_in_VS.Properties.Resources.resources
+C:\Users\cavid\Desktop\me461\Me461_2010_2_events_in_VS\Me461_2010_2_events_in_VS\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\cavid\Desktop\me461\Me461_2010_2_events_in_VS\Me461_2010_2_events_in_VS\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\cavid\Desktop\me461\Me461_2010_2_events_in_VS\Me461_2010_2_events_in_VS\obj\x86\Release\Me461_2010_2_events_in_VS.exe
+C:\Users\cavid\Desktop\me461\Me461_2010_2_events_in_VS\Me461_2010_2_events_in_VS\obj\x86\Release\Me461_2010_2_events_in_VS.pdb
