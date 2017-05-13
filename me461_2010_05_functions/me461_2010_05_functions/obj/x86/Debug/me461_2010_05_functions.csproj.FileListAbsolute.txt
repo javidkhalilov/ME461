@@ -1,0 +1,9 @@
+C:\Users\cavid\Desktop\me461\me461_2010_05_functions\me461_2010_05_functions\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cavid\Desktop\me461\me461_2010_05_functions\me461_2010_05_functions\obj\x86\Debug\me461_2010_05_functions.Form1.resources
+C:\Users\cavid\Desktop\me461\me461_2010_05_functions\me461_2010_05_functions\obj\x86\Debug\me461_2010_05_functions.Properties.Resources.resources
+C:\Users\cavid\Desktop\me461\me461_2010_05_functions\me461_2010_05_functions\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cavid\Desktop\me461\me461_2010_05_functions\me461_2010_05_functions\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cavid\Desktop\me461\me461_2010_05_functions\me461_2010_05_functions\bin\Debug\me461_2010_05_functions.exe
+C:\Users\cavid\Desktop\me461\me461_2010_05_functions\me461_2010_05_functions\bin\Debug\me461_2010_05_functions.pdb
+C:\Users\cavid\Desktop\me461\me461_2010_05_functions\me461_2010_05_functions\obj\x86\Debug\me461_2010_05_functions.exe
+C:\Users\cavid\Desktop\me461\me461_2010_05_functions\me461_2010_05_functions\obj\x86\Debug\me461_2010_05_functions.pdb

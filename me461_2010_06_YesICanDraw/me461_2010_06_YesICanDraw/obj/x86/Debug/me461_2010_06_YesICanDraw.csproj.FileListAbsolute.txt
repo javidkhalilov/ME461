@@ -1,0 +1,9 @@
+C:\Users\cavid\Desktop\me461\me461_2010_06_YesICanDraw\me461_2010_06_YesICanDraw\bin\Debug\me461_2010_06_YesICanDraw.exe
+C:\Users\cavid\Desktop\me461\me461_2010_06_YesICanDraw\me461_2010_06_YesICanDraw\bin\Debug\me461_2010_06_YesICanDraw.pdb
+C:\Users\cavid\Desktop\me461\me461_2010_06_YesICanDraw\me461_2010_06_YesICanDraw\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cavid\Desktop\me461\me461_2010_06_YesICanDraw\me461_2010_06_YesICanDraw\obj\x86\Debug\me461_2010_06_YesICanDraw.Form1.resources
+C:\Users\cavid\Desktop\me461\me461_2010_06_YesICanDraw\me461_2010_06_YesICanDraw\obj\x86\Debug\me461_2010_06_YesICanDraw.Properties.Resources.resources
+C:\Users\cavid\Desktop\me461\me461_2010_06_YesICanDraw\me461_2010_06_YesICanDraw\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cavid\Desktop\me461\me461_2010_06_YesICanDraw\me461_2010_06_YesICanDraw\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cavid\Desktop\me461\me461_2010_06_YesICanDraw\me461_2010_06_YesICanDraw\obj\x86\Debug\me461_2010_06_YesICanDraw.exe
+C:\Users\cavid\Desktop\me461\me461_2010_06_YesICanDraw\me461_2010_06_YesICanDraw\obj\x86\Debug\me461_2010_06_YesICanDraw.pdb
