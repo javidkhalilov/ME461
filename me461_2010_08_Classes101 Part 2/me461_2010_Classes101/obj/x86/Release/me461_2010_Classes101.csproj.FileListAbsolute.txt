@@ -1,0 +1,27 @@
+C:\Users\bugra\AppData\Local\Temporary Projects\me461_2010_Classes101\bin\Release\me461_2010_Classes101.exe
+C:\Users\bugra\AppData\Local\Temporary Projects\me461_2010_Classes101\bin\Release\me461_2010_Classes101.pdb
+C:\Users\bugra\AppData\Local\Temporary Projects\me461_2010_Classes101\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\bugra\AppData\Local\Temporary Projects\me461_2010_Classes101\obj\x86\Release\me461_2010_Classes101.Form1.resources
+C:\Users\bugra\AppData\Local\Temporary Projects\me461_2010_Classes101\obj\x86\Release\me461_2010_Classes101.Properties.Resources.resources
+C:\Users\bugra\AppData\Local\Temporary Projects\me461_2010_Classes101\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\bugra\AppData\Local\Temporary Projects\me461_2010_Classes101\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\bugra\AppData\Local\Temporary Projects\me461_2010_Classes101\obj\x86\Release\me461_2010_Classes101.exe
+C:\Users\bugra\AppData\Local\Temporary Projects\me461_2010_Classes101\obj\x86\Release\me461_2010_Classes101.pdb
+C:\Users\bugra\documents\visual studio 2010\Projects\me461_2010_Classes101\me461_2010_Classes101\obj\x86\Release\me461_2010_Classes101.exe
+C:\Users\bugra\documents\visual studio 2010\Projects\me461_2010_Classes101\me461_2010_Classes101\obj\x86\Release\me461_2010_Classes101.pdb
+C:\Users\bugra\documents\visual studio 2010\Projects\me461_2010_Classes101\me461_2010_Classes101\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\bugra\documents\visual studio 2010\Projects\me461_2010_Classes101\me461_2010_Classes101\obj\x86\Release\me461_2010_Classes101.Form1.resources
+C:\Users\bugra\documents\visual studio 2010\Projects\me461_2010_Classes101\me461_2010_Classes101\obj\x86\Release\me461_2010_Classes101.Properties.Resources.resources
+C:\Users\bugra\documents\visual studio 2010\Projects\me461_2010_Classes101\me461_2010_Classes101\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\bugra\documents\visual studio 2010\Projects\me461_2010_Classes101\me461_2010_Classes101\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\bugra\documents\visual studio 2010\Projects\me461_2010_Classes101\me461_2010_Classes101\bin\Release\me461_2010_Classes101.exe
+C:\Users\bugra\documents\visual studio 2010\Projects\me461_2010_Classes101\me461_2010_Classes101\bin\Release\me461_2010_Classes101.pdb
+C:\Users\bugra\Documents\Visual Studio 2010\Projects\me461_2010_Classes101 Part 2\me461_2010_Classes101\bin\Release\me461_2010_Classes101.exe
+C:\Users\bugra\Documents\Visual Studio 2010\Projects\me461_2010_Classes101 Part 2\me461_2010_Classes101\bin\Release\me461_2010_Classes101.pdb
+C:\Users\bugra\Documents\Visual Studio 2010\Projects\me461_2010_Classes101 Part 2\me461_2010_Classes101\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\bugra\Documents\Visual Studio 2010\Projects\me461_2010_Classes101 Part 2\me461_2010_Classes101\obj\x86\Release\me461_2010_Classes101.Form1.resources
+C:\Users\bugra\Documents\Visual Studio 2010\Projects\me461_2010_Classes101 Part 2\me461_2010_Classes101\obj\x86\Release\me461_2010_Classes101.Properties.Resources.resources
+C:\Users\bugra\Documents\Visual Studio 2010\Projects\me461_2010_Classes101 Part 2\me461_2010_Classes101\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\bugra\Documents\Visual Studio 2010\Projects\me461_2010_Classes101 Part 2\me461_2010_Classes101\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\bugra\Documents\Visual Studio 2010\Projects\me461_2010_Classes101 Part 2\me461_2010_Classes101\obj\x86\Release\me461_2010_Classes101.exe
+C:\Users\bugra\Documents\Visual Studio 2010\Projects\me461_2010_Classes101 Part 2\me461_2010_Classes101\obj\x86\Release\me461_2010_Classes101.pdb
