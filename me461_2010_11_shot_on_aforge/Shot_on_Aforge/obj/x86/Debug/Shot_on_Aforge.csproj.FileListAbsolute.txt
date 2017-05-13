@@ -1,0 +1,16 @@
+C:\Users\cavid\Desktop\me461\Shot_on_Aforge\Shot_on_Aforge\bin\Debug\Shot_on_Aforge.exe
+C:\Users\cavid\Desktop\me461\Shot_on_Aforge\Shot_on_Aforge\bin\Debug\Shot_on_Aforge.pdb
+C:\Users\cavid\Desktop\me461\Shot_on_Aforge\Shot_on_Aforge\bin\Debug\AForge.dll
+C:\Users\cavid\Desktop\me461\Shot_on_Aforge\Shot_on_Aforge\bin\Debug\AForge.Imaging.dll
+C:\Users\cavid\Desktop\me461\Shot_on_Aforge\Shot_on_Aforge\bin\Debug\AForge.Math.dll
+C:\Users\cavid\Desktop\me461\Shot_on_Aforge\Shot_on_Aforge\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cavid\Desktop\me461\Shot_on_Aforge\Shot_on_Aforge\obj\x86\Debug\Shot_on_Aforge.Form1.resources
+C:\Users\cavid\Desktop\me461\Shot_on_Aforge\Shot_on_Aforge\obj\x86\Debug\Shot_on_Aforge.Properties.Resources.resources
+C:\Users\cavid\Desktop\me461\Shot_on_Aforge\Shot_on_Aforge\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cavid\Desktop\me461\Shot_on_Aforge\Shot_on_Aforge\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cavid\Desktop\me461\Shot_on_Aforge\Shot_on_Aforge\obj\x86\Debug\Shot_on_Aforge.exe
+C:\Users\cavid\Desktop\me461\Shot_on_Aforge\Shot_on_Aforge\obj\x86\Debug\Shot_on_Aforge.pdb
+C:\Users\cavid\Desktop\me461\Shot_on_Aforge\Shot_on_Aforge\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\cavid\Desktop\me461\Shot_on_Aforge\Shot_on_Aforge\bin\Debug\AForge.Video.dll
+D:\masaustu important_v1\me461\Shot_on_Aforge\Shot_on_Aforge\obj\x86\Debug\Shot_on_Aforge.exe
+D:\masaustu important_v1\me461\Shot_on_Aforge\Shot_on_Aforge\obj\x86\Debug\Shot_on_Aforge.pdb
